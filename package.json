@@ -1,0 +1,32 @@
+{
+  "name": "adoc411ty",
+  "version": "1.0.0",
+  "description": "Use AsciiDoc files with Eleventy static site generator",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octoxalis/adoc411ty.git"
+  },
+  "keywords": [
+    "AsciiDoc",
+    "Eleventy",
+    "Nunjucks"
+  ],
+  "author": "Octoxalis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoxalis/adoc411ty/issues"
+  },
+  "homepage": "https://github.com/octoxalis/adoc411ty#readme",
+  "dependencies": {
+    "asciidoctor": "^2.2.4",
+    "nunjucks": "^3.2.3"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "npx": "^10.2.2"
+  }
+}
