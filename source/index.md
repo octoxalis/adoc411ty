@@ -1,7 +1,7 @@
 ---js
 {
   layout:    'frame.njk',
-  permalink: 'asciidoc-sample.html',
+  permalink: 'index.html',
   title_s:    `AsciiDoc page`,
   abstract_s: `How to embed AsciiDoc markup in a Markdown file`,
   credits:    `This AsciiDoc markup comes from https://github.com/darshandsoni/asciidoctor-skins[darshandsoni]`
